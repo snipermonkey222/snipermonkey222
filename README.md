@@ -1,16 +1,22 @@
-## Hi there 👋
+<div align="center">
 
-<!--
-**snipermonkey222/snipermonkey222** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<img src="https://github.com/snipermonkey222.png?size=200" width="96" alt="pfp" />
 
-Here are some ideas to get you started:
+### snipermonkey222
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+<a href="https://x.com/larp1ngs"><img src="https://img.shields.io/badge/X-%40larp1ngs-6B7280?style=flat-square&logo=x&logoColor=white" alt="X" /></a>
+
+20 · intj<br />
+<a href="mailto:sob@elyria.cc">sob@elyria.cc</a><br />
+agent tooling &amp; automation
+
+</div>
+
+<!-- stats: uncomment once you have public repos
+<div align="center">
+
+<img src="https://github-readme-stats.vercel.app/api?username=snipermonkey222&show_icons=true&hide_border=true&bg_color=00000000&title_color=6B7280&icon_color=9CA3AF&text_color=9CA3AF&rank_icon=github&include_all_commits=true" height="165" alt="GitHub stats" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=snipermonkey222&layout=compact&hide_border=true&bg_color=00000000&title_color=6B7280&text_color=9CA3AF&langs_count=6" height="165" alt="Top languages" />
+
+</div>
 -->
