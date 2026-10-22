@@ -11,12 +11,3 @@
 agent tooling &amp; automation
 
 </div>
-
-<!-- stats: uncomment once you have public repos
-<div align="center">
-
-<img src="https://github-readme-stats.vercel.app/api?username=snipermonkey222&show_icons=true&hide_border=true&bg_color=00000000&title_color=6B7280&icon_color=9CA3AF&text_color=9CA3AF&rank_icon=github&include_all_commits=true" height="165" alt="GitHub stats" />
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=snipermonkey222&layout=compact&hide_border=true&bg_color=00000000&title_color=6B7280&text_color=9CA3AF&langs_count=6" height="165" alt="Top languages" />
-
-</div>
--->
